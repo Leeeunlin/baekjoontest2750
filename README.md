@@ -1,3 +1,3 @@
-# baekjoontest2750
+# baekjoontest
 algorithm
 코드 업로드
