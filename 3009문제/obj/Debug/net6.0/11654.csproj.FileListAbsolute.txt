@@ -1,0 +1,14 @@
+C:\Users\HM\Desktop\repo\11654문제\obj\Debug\net6.0\11654.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HM\Desktop\repo\11654문제\obj\Debug\net6.0\11654.AssemblyInfoInputs.cache
+C:\Users\HM\Desktop\repo\11654문제\obj\Debug\net6.0\11654.AssemblyInfo.cs
+C:\Users\HM\Desktop\repo\11654문제\obj\Debug\net6.0\11654.csproj.CoreCompileInputs.cache
+C:\Users\HM\Desktop\repo\11654문제\bin\Debug\net6.0\11654.exe
+C:\Users\HM\Desktop\repo\11654문제\bin\Debug\net6.0\11654.deps.json
+C:\Users\HM\Desktop\repo\11654문제\bin\Debug\net6.0\11654.runtimeconfig.json
+C:\Users\HM\Desktop\repo\11654문제\bin\Debug\net6.0\11654.dll
+C:\Users\HM\Desktop\repo\11654문제\bin\Debug\net6.0\ref\11654.dll
+C:\Users\HM\Desktop\repo\11654문제\bin\Debug\net6.0\11654.pdb
+C:\Users\HM\Desktop\repo\11654문제\obj\Debug\net6.0\11654.dll
+C:\Users\HM\Desktop\repo\11654문제\obj\Debug\net6.0\ref\11654.dll
+C:\Users\HM\Desktop\repo\11654문제\obj\Debug\net6.0\11654.pdb
+C:\Users\HM\Desktop\repo\11654문제\obj\Debug\net6.0\11654.genruntimeconfig.cache
