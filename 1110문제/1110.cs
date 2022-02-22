@@ -1,4 +1,4 @@
-﻿string orgnum = Console.ReadLine();
+string orgnum = Console.ReadLine();
 
 int count = 0;
 int addNum; // 10, 1의자리 계산값
@@ -26,6 +26,4 @@ while (true)
         Console.WriteLine(count + " 회로 반복 종료");
         break;
     }
-    // string 값으로 더해진 inputNum 과 변하지 않은 처음 입력값 originalNum을 비교하여 같으면 
-    // while문 탈출
 }
