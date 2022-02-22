@@ -1,0 +1,14 @@
+C:\Users\HM\Desktop\repo\ConsoleApp2\bin\Debug\net6.0\2750.exe
+C:\Users\HM\Desktop\repo\ConsoleApp2\bin\Debug\net6.0\2750.deps.json
+C:\Users\HM\Desktop\repo\ConsoleApp2\bin\Debug\net6.0\2750.runtimeconfig.json
+C:\Users\HM\Desktop\repo\ConsoleApp2\bin\Debug\net6.0\2750.dll
+C:\Users\HM\Desktop\repo\ConsoleApp2\bin\Debug\net6.0\ref\2750.dll
+C:\Users\HM\Desktop\repo\ConsoleApp2\bin\Debug\net6.0\2750.pdb
+C:\Users\HM\Desktop\repo\ConsoleApp2\obj\Debug\net6.0\2750.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HM\Desktop\repo\ConsoleApp2\obj\Debug\net6.0\2750.AssemblyInfoInputs.cache
+C:\Users\HM\Desktop\repo\ConsoleApp2\obj\Debug\net6.0\2750.AssemblyInfo.cs
+C:\Users\HM\Desktop\repo\ConsoleApp2\obj\Debug\net6.0\2750.csproj.CoreCompileInputs.cache
+C:\Users\HM\Desktop\repo\ConsoleApp2\obj\Debug\net6.0\2750.dll
+C:\Users\HM\Desktop\repo\ConsoleApp2\obj\Debug\net6.0\ref\2750.dll
+C:\Users\HM\Desktop\repo\ConsoleApp2\obj\Debug\net6.0\2750.pdb
+C:\Users\HM\Desktop\repo\ConsoleApp2\obj\Debug\net6.0\2750.genruntimeconfig.cache

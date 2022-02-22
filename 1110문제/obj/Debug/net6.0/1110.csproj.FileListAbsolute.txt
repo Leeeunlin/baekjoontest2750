@@ -1,0 +1,14 @@
+D:\baekjoontest\1110문제\bin\Debug\net6.0\1110.exe
+D:\baekjoontest\1110문제\bin\Debug\net6.0\1110.deps.json
+D:\baekjoontest\1110문제\bin\Debug\net6.0\1110.runtimeconfig.json
+D:\baekjoontest\1110문제\bin\Debug\net6.0\1110.dll
+D:\baekjoontest\1110문제\bin\Debug\net6.0\ref\1110.dll
+D:\baekjoontest\1110문제\bin\Debug\net6.0\1110.pdb
+D:\baekjoontest\1110문제\obj\Debug\net6.0\1110.GeneratedMSBuildEditorConfig.editorconfig
+D:\baekjoontest\1110문제\obj\Debug\net6.0\1110.AssemblyInfoInputs.cache
+D:\baekjoontest\1110문제\obj\Debug\net6.0\1110.AssemblyInfo.cs
+D:\baekjoontest\1110문제\obj\Debug\net6.0\1110.csproj.CoreCompileInputs.cache
+D:\baekjoontest\1110문제\obj\Debug\net6.0\1110.dll
+D:\baekjoontest\1110문제\obj\Debug\net6.0\ref\1110.dll
+D:\baekjoontest\1110문제\obj\Debug\net6.0\1110.pdb
+D:\baekjoontest\1110문제\obj\Debug\net6.0\1110.genruntimeconfig.cache
