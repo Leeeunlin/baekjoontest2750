@@ -1,0 +1,15 @@
+D:\baekjoontest\1003문제\bin\Debug\net6.0\1003.exe
+D:\baekjoontest\1003문제\bin\Debug\net6.0\1003.deps.json
+D:\baekjoontest\1003문제\bin\Debug\net6.0\1003.runtimeconfig.json
+D:\baekjoontest\1003문제\bin\Debug\net6.0\1003.dll
+D:\baekjoontest\1003문제\bin\Debug\net6.0\ref\1003.dll
+D:\baekjoontest\1003문제\bin\Debug\net6.0\1003.pdb
+D:\baekjoontest\1003문제\obj\Debug\net6.0\1003.csproj.AssemblyReference.cache
+D:\baekjoontest\1003문제\obj\Debug\net6.0\1003.GeneratedMSBuildEditorConfig.editorconfig
+D:\baekjoontest\1003문제\obj\Debug\net6.0\1003.AssemblyInfoInputs.cache
+D:\baekjoontest\1003문제\obj\Debug\net6.0\1003.AssemblyInfo.cs
+D:\baekjoontest\1003문제\obj\Debug\net6.0\1003.csproj.CoreCompileInputs.cache
+D:\baekjoontest\1003문제\obj\Debug\net6.0\1003.dll
+D:\baekjoontest\1003문제\obj\Debug\net6.0\ref\1003.dll
+D:\baekjoontest\1003문제\obj\Debug\net6.0\1003.pdb
+D:\baekjoontest\1003문제\obj\Debug\net6.0\1003.genruntimeconfig.cache

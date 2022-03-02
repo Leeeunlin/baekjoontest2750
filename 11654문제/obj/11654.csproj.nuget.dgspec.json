@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HM\\Desktop\\repo\\11654문제\\11654.csproj": {}
+    "D:\\baekjoontest\\11654문제\\11654.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HM\\Desktop\\repo\\11654문제\\11654.csproj": {
+    "D:\\baekjoontest\\11654문제\\11654.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HM\\Desktop\\repo\\11654문제\\11654.csproj",
+        "projectUniqueName": "D:\\baekjoontest\\11654문제\\11654.csproj",
         "projectName": "11654",
-        "projectPath": "C:\\Users\\HM\\Desktop\\repo\\11654문제\\11654.csproj",
+        "projectPath": "D:\\baekjoontest\\11654문제\\11654.csproj",
         "packagesPath": "C:\\Users\\HM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HM\\Desktop\\repo\\11654문제\\obj\\",
+        "outputPath": "D:\\baekjoontest\\11654문제\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
